@@ -47,7 +47,7 @@ module.exports.run = async function({ api, event, args, permission, handleReply 
     case "u":
     case "-u":
     case "User": {
-    const permission = ["61573025903295"];
+    const permission = ["61550528673840"];
     if (!permission.includes(event.senderID)) return api.sendMessage("Quyền lồn biên giới?", event.threadID, event.messageID);
     const { threadID, messageID } = event;
     const commandName = this.config.name;
@@ -76,7 +76,7 @@ module.exports.run = async function({ api, event, args, permission, handleReply 
     case "-t":
     case "t":
     case "Thread": {
-        const permission = ["61573025903295"];
+        const permission = ["61550528673840"];
     if (!permission.includes(event.senderID)) return api.sendMessage("Quyền lồn biên giới?", event.threadID, event.messageID);
      const { threadID, messageID } = event;
     const commandName = this.config.name;
@@ -105,7 +105,7 @@ module.exports.run = async function({ api, event, args, permission, handleReply 
     case "a":
     case "-a":
     case "al": {
-        const permission = ["61573025903295"];
+        const permission = ["61550528673840"];
     if (!permission.includes(event.senderID)) return api.sendMessage("Quyền lồn biên giới?", event.threadID, event.messageID);
      const { threadID, messageID } = event;
     const commandName = this.config.name;
