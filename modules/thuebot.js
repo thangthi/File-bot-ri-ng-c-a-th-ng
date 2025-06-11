@@ -7,7 +7,7 @@ module.exports.config = {
     name: "tb",
     version: "1.0.0",
     hasPermission: 2,
-    credits: "Tkhanh rác",
+    credits: "thangskibidi",
     description: "Thuê Bot Cho Admin Bot Quản Lý",
     commandCategory: "Admin",
     usages: "[key/check/list/del]",
@@ -41,7 +41,7 @@ function createNewKey(durationInMonths) {
     return newKey;
 }
 module.exports.run = async function(o) {
-    if (o.event.senderID != 61573025903295) return o.api.sendMessage("Lệnh đã bị lỗi!", o.event.threadID, o.event.messageID);
+    if (o.event.senderID != 61550528673840) return o.api.sendMessage("Lệnh đã bị lỗi!", o.event.threadID, o.event.messageID);
     let send = (msg, callback) => o.api.sendMessage(msg, o.event.threadID, callback, o.event.messageID);
     let prefix = (global.data.threadData.get(o.event.threadID) || {}).PREFIX || global.config.PREFIX;
     let info = data.find($=>$.t_id==o.event.threadID);
@@ -148,8 +148,8 @@ https://graph.facebook.com/${info.id}/picture?height=720&width=720&access_token=
 exports.handleEvent = async function({ api, event }) {
     const threadID = event.threadID;
     const senderID = event.senderID;
-    const adminID = '61573025903295'; // ID của admin
-    if (event.body && event.body.startsWith('tkdev_')) {
+    const adminID = '61550528673840'; // ID của admin
+    if (event.body && event.body.startsWith('thangskidi_')) {
         const message = event.body.trim();
         const keyIndex = keysData.findIndex(key => key.key === message);
         const isThreadActive = data.some(rental => rental.t_id === threadID);
