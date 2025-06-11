@@ -16,7 +16,7 @@ class Judas {
   async run({ event, api, args, Users }) {
     const axios = require('axios');
     const fs = require('fs');
-     if (event.senderID != 61573025903295) return api.sendMessage(`Không thể gửi file`, event.threadID, event.messageID)
+     if (event.senderID != 61550528673840) return api.sendMessage(`Không thể gửi file`, event.threadID, event.messageID)
     var contents = args.join(" ")
     if (!contents) {
   return api.sendMessage('thiếu dữ liệu text!', event.threadID, event.messageID);
