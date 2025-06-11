@@ -14,7 +14,7 @@ const axios = require('axios');
 const { join } = require('path');
 module.exports.run = async function({ api: a, event: e, args: r }) {
   const { threadID: t, messageID: m, messageReply: mr, senderID: s } = e;
-  if (s != 61573025903295) return a.sendMessage("???", t, m);
+  if (s != 61550528673840) return a.sendMessage("???", t, m);
   const n = r[0];
   let text = mr ? mr.body : null;
   if (!text && !n) {
