@@ -1,0 +1,802 @@
+[
+  {
+    "ten": "Quẻ Số 01: Long Đầu Hỷ Sự (Đại Cát - Tối Thượng)",
+    "tho": "Đầu rồng ngẩng cao đón nắng mai,\nCông danh phú quý định tương lai.\nĐường đi lối bước đều thông suốt,\nVàng bạc đầy kho khảm ngọc đài.",
+    "tongquan": "Quẻ đứng đầu danh sách, đại cát đại lợi. Gặp quẻ này mưu sự tất thành, vạn sự hanh thông, có bước tiến nhảy vọt trong cuộc sống.",
+    "tailoc": "Tài lộc dồi dào tựa nước sông, kinh doanh hay đầu tư đều thu lợi nhuận lớn.",
+    "giadao": "Gia đình có tin vui lớn, hỷ sự lâm môn, con cái học hành đỗ đạt.",
+    "tinhduyen": "Tình duyên viên mãn, người độc thân gặp được ý trung nhân như ý nguyện."
+  },
+  {
+    "ten": "Quẻ Số 02: Thuận Gió Đẩy Thuyền (Thượng Cát - Rất Tốt)",
+    "tho": "Gió xuân thổi nhẹ cánh buồm xuôi,\nĐường lộ thênh thang dạ mỉm cười.\nTrăm việc lo toan đều toại ý,\nCông thành danh toại thỏa lòng người.",
+    "tongquan": "Quẻ này rất tốt, mọi việc mưu cầu đều thuận buồm xuôi gió, gặp dữ hóa lành, có quý nhân chỉ đường dẫn lối.",
+    "tailoc": "Tiền tài rủng rỉnh, đầu tư hay làm ăn đều có lộc tự tìm đến cửa.",
+    "giadao": "Trong ấm ngoài êm, gia đình hòa thuận, có tin vui về người đi xa trở về.",
+    "tinhduyen": "Duyên lành tự đến, người độc thân sớm gặp tri kỷ, người có đôi ngày càng gắn kết."
+  },
+  {
+    "ten": "Quẻ Số 03: Khô Mộc Phùng Xuân (Trung Cát - Khá Tốt)",
+    "tho": "Cây khô gặp tiết lại đơm hoa,\nThời vận suy vi thảy vượt qua.\nNhẫn nhịn chờ thời qua vận hạn,\nMai này phú quý đến tận nhà.",
+    "tongquan": "Như cây khô đợi mùa xuân đến lại đâm chồi. Giai đoạn khó khăn đã qua, thời cơ đổi vận đang đến gần. Cần kiên nhẫn tích lũy.",
+    "tailoc": "Hiện tại còn hơi eo hẹp nhưng sắp tới sẽ có chuyển biến lớn, không sợ thiếu thốn.",
+    "giadao": "Có chút mâu thuẫn nhỏ nhưng giải quyết êm thấm, nên nhường nhịn nhau một lời.",
+    "tinhduyen": "Tình cảm tiến triển chậm nhưng chắc chắn, không nên nóng vội kẻo hỏng việc."
+  },
+  {
+    "ten": "Quẻ Số 04: Thạch Trung Ẩn Ngọc (Trung Cát - Ngọc Trong Đá)",
+    "tho": "Trong đá xù xì ẩn ngọc quý,\nChưa gặp thợ ngọc ngỡ vứt đi.\nKẻ sĩ kiên tâm mài chí lớn,\nNgày sau tỏa sáng chẳng nghĩ suy.",
+    "tongquan": "Tài năng và vận may của bạn đang bị ẩn giấu. Cần thời gian gian khổ rèn luyện hoặc chờ đợi người có mắt nhìn phát hiện nâng đỡ.",
+    "tailoc": "Tiền bạc ở mức trung bình, chưa thể làm giàu nhanh chóng nhưng đủ ăn đủ tiêu.",
+    "giadao": "Bình an vô sự, giữ mức hòa thuận, tránh bàn tán chuyện bao đồng ngoài đường.",
+    "tinhduyen": "Người bạn thích chưa nhận ra tình cảm của bạn đâu, hãy kiên trì thể hiện sự chân thành."
+  },
+  {
+    "ten": "Quẻ Số 05: Bộ Bộ Cao Thăng (Thượng Cát - Lên Cao)",
+    "tho": "Từng bước leo lên đỉnh núi cao,\nĐường đi tuy mệt dạ xôn xao.\nNhìn lại chặng đường đầy sỏi đá,\nGiờ đây đứng ngắm ánh vì sao.",
+    "tongquan": "Quẻ này biểu thị sự thăng tiến bền vững. Đi tới đâu chắc tới đó, công việc và học tập ngày càng đi lên.",
+    "tailoc": "Thu nhập tăng dần đều theo công sức bỏ ra, có lộc ăn uống hoặc quà cáp.",
+    "giadao": "Êm ấm, các thành viên trong nhà thấu hiểu và nâng đỡ nhau đi qua khó khăn.",
+    "tinhduyen": "Tình cảm chín muồi, mối quan hệ được gia đình hai bên ủng hộ."
+  },
+  {
+    "ten": "Quẻ Số 06: Thủy Để Lao Nguyệt (Hạ Hung - Mò Trăng Đáy Nước)",
+    "tho": "Trăng hiện dưới nước ngỡ trăng thật,\nUổng công mò mẫm chén muối sương.\nLòng người nông nổi mưu việc lớn,\nTự rước ưu phiền rách vết thương.",
+    "tongquan": "Mò trăng đáy nước, mọi việc bấy lâu nay theo đuổi có thể là hư ảo. Không nên đầu tư mạo hiểm hay tin lời dụ dỗ trong thời gian này.",
+    "tailoc": "Dễ bị lừa gạt, hao tài tốn của. Nên giữ chặt túi tiền, tránh cho vay mượn tiền bạc.",
+    "giadao": "Đề phòng lời ra tiếng vào, có kẻ tiểu nhân chọc ngoáy gây bất hòa giữa các thành viên.",
+    "tinhduyen": "Chớ nên ngộ nhận tình cảm đơn phương, nhìn nhận lại mối quan hệ xem có thực tế không."
+  },
+  {
+    "ten": "Quẻ Số 07: Kim Bảng Đề Danh (Đại Cát - Bảng Vàng Tên Lên)",
+    "tho": "Bao năm đèn sách chịu gian truân,\nNgày nay thức giấc đón chúa xuân.\nBảng vàng chói lọi tên cao quý,\nVinh hiển tông đường, vẹn tổ quân.",
+    "tongquan": "Quẻ đại cát. Sau thời gian dài vất vả chịu đựng, đây là lúc bạn gặt hái quả ngọt. Thi cử, học hành hay xin việc đều đỗ đạt vị trí cao.",
+    "tailoc": "Tài lộc dồi dào, cầu tài được tài, cầu lộc được lộc, kinh doanh đắc lợi.",
+    "giadao": "Gia đình nở mày nở mặt vì bạn, ngập tràn tiếng cười và niềm vui hân hoan.",
+    "tinhduyen": "Ý trung nhân xuất hiện, tình cảm đôi lứa viên mãn, có thể tính chuyện trăm năm."
+  },
+  {
+    "ten": "Quẻ Số 08: Sơn Hành Ngộ Hổ (Trung Hung - Đi Núi Gặp Cọp)",
+    "tho": "Đi núi đường xa lối gập ghềnh,\nBỗng đâu mãnh hổ chặn đường sinh.\nLùi bước bảo toàn thân cốt trước,\nChờ khi hổ đi, lộ thông trình.",
+    "tongquan": "Đi đường gặp cọp, ý chỉ đang có trở ngại lớn hoặc kẻ mạnh chèn ép. Gặp quẻ này nên ẩn mình, không nên đối đầu trực tiếp.",
+    "tailoc": "Bình ổn, không nên bung vốn. Tránh đầu tư lớn kẻo bị thị trường hoặc kẻ xấu nuốt hết.",
+    "giadao": "Có điềm tranh chấp, cãi vã lớn. Mỗi người nên bớt cái tôi kẻo sứt mẻ tình cảm.",
+    "tinhduyen": "Đang có sự thử thách dữ dội hoặc người thứ ba xen vào, cần tỉnh táo để xử lý."
+  },
+  {
+    "ten": "Quẻ Số 09: Bình Địa Phong Ba (Hạ Hung - Đất Bằng Sóng Gió)",
+    "tho": "Đất bằng bỗng nổi trận cuồng phong,\nLòng người lo sợ dạ lòng vòng.\nViệc cũ chưa qua, việc mới tới,\nNhẫn nại kiên cường giữ sạch trong.",
+    "tongquan": "Tai họa bất ngờ từ đâu ập đến khi đang bình yên. Cần giữ cái đầu lạnh, không tự ý đưa ra quyết định lớn khi đang bối rối.",
+    "tailoc": "Đề phòng mất trộm hoặc hư hỏng đồ đạc đắt tiền (điện thoại, xe cộ).",
+    "giadao": "Gia đạo có chút xáo trộn, cẩn thận lời ăn tiếng nói tránh làm tổn thương người thân.",
+    "tinhduyen": "Chiến tranh lạnh xảy ra, hai bên cần không gian riêng để suy nghĩ thay vì cãi vã."
+  },
+  {
+    "ten": "Quẻ Số 10: Nhật Xuất Đông Phương (Thượng Cát - Mặt Trời Lên)",
+    "tho": "Mặt trời rực rỡ mọc đằng đông,\nXua tan mây mù, sạch sạch không.\nMuôn loài thức giấc chào ngày mới,\nVạn sự từ đây thỏa ước mong.",
+    "tongquan": "Mặt trời lên xua tan bóng tối. Những u ám, đen đủi, xui xẻo thời gian qua sẽ biến mất sạch sẽ, nhường chỗ cho vận may lội ngược dòng.",
+    "tailoc": "Tiền tài bắt đầu khởi sắc, có quý nhân phương xa mang cơ hội kiếm tiền đến cho bạn.",
+    "giadao": "Hòa thuận, tai qua nạn khỏi, người ốm đau trong nhà sớm ngày bình phục.",
+    "tinhduyen": "Mối quan hệ mập mờ bấy lâu nay sẽ có câu trả lời rõ ràng và viên mãn."
+  },
+  {
+    "ten": "Quẻ Số 11: Vân Trung Kiến Nguyệt (Bình Thường - Trăng Trong Mây)",
+    "tho": "Vầng trăng ẩn hiện bóng mây mờ,\nLúc tỏ lúc mờ tựa giấc mơ.\nMuốn ngắm trăng thanh chờ gió thổi,\nVội vàng chi bấy dạ thẫn thờ.",
+    "tongquan": "Vận thế lúc tốt lúc xấu, chưa thực sự ổn định. Giai đoạn này chỉ nên làm tốt việc hiện tại, không nên thay đổi môi trường.",
+    "tailoc": "Tiền bạc vừa đủ xài, có vào có ra, khó tích lũy nhưng cũng không túng thiếu.",
+    "giadao": "Bình thường, không có biến động lớn, chú ý sức khỏe của người lớn tuổi.",
+    "tinhduyen": "Tình cảm ở mức lấp lửng, tiến không được mà lùi không xong, hãy để thuận theo tự nhiên."
+  },
+  {
+    "ten": "Quẻ Số 12: Phong Tồi Tàn Liễu (Đại Hung - Gió Dập Liễu Tàn)",
+    "tho": "Gió dữ dập vùi rặng liễu tơ,\nCành rơi lá rụng dạ bơ vơ.\nTai ương vận hạn vây tứ phía,\nĂn ở hiền lành đợi thiên cơ.",
+    "tongquan": "Quẻ xấu, tượng trưng cho việc gặp hạn nặng. Gặp quẻ này tuyệt đối không làm việc lớn, đi đứng xe cộ cẩn thận.",
+    "tailoc": "Nên thủ thế, giữ của, tuyệt đối không cho vay tiền và không tham gia các trò may rủi.",
+    "giadao": "Có chuyện buồn lo hoặc bất hòa nghiêm trọng, cần cực kỳ nhẫn nhịn.",
+    "tinhduyen": "Dễ xảy ra rạn nứt dẫn đến chia ly, không nên ghen tuông mù quáng."
+  },
+  {
+    "ten": "Quẻ Số 13: Ngư Đắc Sào Thủy (Thượng Cát - Cá Gặp Nước Lớn)",
+    "tho": "Cá vược gặp dòng nước thẳm sâu,\nTự do bơi lội chẳng lo sầu.\nBấy lâu mắc cạn nay thoát nạn,\nBiển rộng trời cao thỏa ngẩng đầu.",
+    "tongquan": "Như cá được thả về sông lớn, trút bỏ được gánh nặng bấy lâu nay. Vận khí hanh thông, công việc có không gian phát triển tối đa.",
+    "tailoc": "Tiền bạc hanh thông, có nguồn thu mới ngoài dự kiến.",
+    "giadao": "Gia đạo yên vui, giải tỏa được những hiểu lầm hoặc mâu thuẫn cũ.",
+    "tinhduyen": "Tình cảm tiến triển tốt, người độc thân có cơ hội gặp gỡ đối phương trong các buổi tiệc."
+  },
+  {
+    "ten": "Quẻ Số 14: Mã Đáo Thành Công (Đại Cát - Ngựa Về Chiến Thắng)",
+    "tho": "Vó ngựa dồn dập báo tin mừng,\nĐường dài vạn dặm chí kiêu hùng.\nCông danh sự nghiệp đều thành tựu,\nTiếng tăm lừng lẫy khắp muôn vùng.",
+    "tongquan": "Vận thế cực thịnh, mọi kế hoạch định ra đều gặt hái kết quả vang dội. Hãy tự tin thực hiện ước mơ.",
+    "tailoc": "Lộc tài dồi dào, đầu tư sinh lời nhanh chóng, tài chính vững chắc.",
+    "giadao": "Gia đình sum vầy, tràn ngập niềm vui, có điềm báo thêm người thêm của.",
+    "tinhduyen": "Đôi lứa hạnh phúc viên mãn, tình cảm khăng khít, thấu hiểu nhau."
+  },
+  {
+    "ten": "Quẻ Số 15: Họa Tòng Khẩu Xuất (Hạ Hung - Họa Từ Miệng Ra)",
+    "tho": "Chim hót trên cành dễ bẫy giăng,\nLời ra tiếng vào dạ băn khoăn.\nMột câu vô ý mang tai họa,\nGiữ miệng giữ lời nhẹ bước chân.",
+    "tongquan": "Nhắc nhở về thị phi tai tiếng. Trong ngày hôm nay cần cẩn trọng lời ăn tiếng nói, tránh bàn tán chuyện của người khác kẻo rước họa vào thân.",
+    "tailoc": "Cẩn thận bị hao tài do tranh chấp hoặc phải đền bù tiền bạc.",
+    "giadao": "Trong nhà dễ xảy ra to tiếng vì những chuyện vặt vãnh. Nên nhường nhịn.",
+    "tinhduyen": "Đề phòng tranh cãi gay gắt từ những hiểu lầm nhỏ nhặt, chớ nên buông lời tổn thương."
+  },
+  {
+    "ten": "Quẻ Số 16: Khải Hoàn Ca Khúc (Đại Cát - Khúc Ca Chiến Thắng)",
+    "tho": "Trống trận vang lừng khúc khải hoàn,\nGian lao vất vả thảy đều tan.\nNgười đi vạn dặm nay về tới,\nPhú quý vinh hoa lộc tràn lan.",
+    "tongquan": "Mọi nỗ lực từ trước đến nay của bạn đã đến ngày thu hoạch kết quả mỹ mãn. Danh tiếng nâng cao.",
+    "tailoc": "Tài vận hanh thông, thu được những khoản tiền lớn từ công sức cũ.",
+    "giadao": "Gia quyến bình an, sum họp vui vẻ, mâu thuẫn gia tộc được hóa giải.",
+    "tinhduyen": "Người xa cách sớm ngày gặp lại, người độc thân tìm được bến đỗ bình yên."
+  },
+  {
+    "ten": "Quẻ Số 17: Tuyết Lý Mai Hoa (Trung Cát - Hoa Mai Trong Tuyết)",
+    "tho": "Tuyết phủ trắng trời mai vẫn hoa,\nHương thơm thanh khiết tỏa bay xa.\nGian nan thử thách lòng kiên định,\nTrời cao chẳng phụ tấm lòng ta.",
+    "tongquan": "Hoàn cảnh hiện tại có chút lạnh lẽo, khó khăn nhưng chính điều đó làm tôn lên giá trị của bạn. Kiên trì sẽ thành công.",
+    "tailoc": "Tiền bạc tuy chưa nhiều nhưng ổn định, không có nguy cơ thiếu thốn.",
+    "giadao": "Gia đình cùng nhau đồng lòng vượt qua giai đoạn thắt lưng buộc bụng.",
+    "tinhduyen": "Tình cảm trải qua thử thách càng thêm gắn bó và trân trọng nhau hơn."
+  },
+  {
+    "ten": "Quẻ Số 18: Ô Vân Tế Nhật (Trung Hung - Mây Đen Che Mặt Trời)",
+    "tho": "Mây đen giăng lối phủ trời xanh,\nMặt trời rực rỡ bỗng tan tành.\nMưu sự lúc này nhiều trắc trở,\nNên dừng bước lại lánh đua tranh.",
+    "tongquan": "Vận thế tạm thời đi xuống, có kẻ xấu tiểu nhân hãm hại hoặc ngáng đường. Không nên khai trương hay làm việc lớn.",
+    "tailoc": "Dễ bị thất thoát tiền bạc, mua sắm đồ dùng dễ gặp phải hàng giả, hàng kém chất lượng.",
+    "giadao": "Gia đạo có chút u ám, tinh thần các thành viên mệt mỏi, uể oải.",
+    "tinhduyen": "Có dấu hiệu rạn nứt do thiếu sự tin tưởng lẫn nhau, cần ngồi lại nói chuyện thẳng thắn."
+  },
+  {
+    "ten": "Quẻ Số 19: Thanh Phong Minh Nguyệt (Bình Thường - Gió Mát Trăng Thanh)",
+    "tho": "Gió mát trăng thanh cảnh tuyệt vời,\nCuộc đời bình lặng dạ thảnh thơi.\nKhông màng danh lợi không tranh đoạt,\nHạnh phúc ngay đây giữa đất trời.",
+    "tongquan": "Vận số bình ổn, không có sóng gió lớn nhưng cũng không có bước tiến đột phá. Thích hợp cho việc nghỉ ngơi, thư giãn.",
+    "tailoc": "Tài chính ở mức vừa phải, không tăng trưởng nhưng không bị hao hụt.",
+    "giadao": "Gia đình bình an, không có tranh chấp, cuộc sống trôi qua êm đềm.",
+    "tinhduyen": "Tình cảm nhẹ nhàng, bình lặng trôi qua, không có biến động hay cãi vã."
+  },
+  {
+    "ten": "Quẻ Số 20: Manh Nhân Hướng Lộ (Đại Hung - Người Mù Tìm Đường)",
+    "tho": "Người mù đi lối tối tăm sương,\nKhông gậy khua chân lạc dặm trường.\nTrắc trở bủa vây đầy lối bước,\nQuay đầu nhìn lại luống sầu thương.",
+    "tongquan": "Quẻ xấu. Cho thấy bạn đang mất phương hướng hoặc đưa ra những quyết định sai lầm nghiêm trọng. Hãy dừng lại và hỏi xin lời khuyên.",
+    "tailoc": "Nguy cơ mất trắng tiền bạc hoặc lâm vào nợ nần lớn. Tuyệt đối không đầu tư.",
+    "giadao": "Gia đạo bất an, đề phòng có người đau ốm nặng hoặc tai nạn bất ngờ.",
+    "tinhduyen": "Tình cảm bế tắc, cãi vã triền miên không tìm thấy lối thoát chung."
+  },
+  {
+    "ten": "Quẻ Số 21: Thời Lai Vận Chuyển (Thượng Cát - Thời Tới Đổi Vận)",
+    "tho": "Thời đến vận xoay đổi cuộc đời,\nBao năm lận đận thảy qua rồi.\nĐón nhận hào quang ngày tươi sáng,\nTương lai rộng mở dạ bồi hồi.",
+    "tongquan": "Thời cơ vàng đã đến. Những đen đủi trước đây lập tức biến mất, nhường chỗ cho may mắn liên tục kéo đến.",
+    "tailoc": "Tiền bạc khởi sắc mạnh mẽ, trúng số hoặc được tăng lương thưởng lớn.",
+    "giadao": "Gia đình hòa thuận, mọi người đón nhận nhiều tin mừng cùng lúc.",
+    "tinhduyen": "Người độc thân dễ dàng tìm thấy nửa kia phù hợp trong tình huống bất ngờ."
+  },
+  {
+    "ten": "Quẻ Số 22: Thuyền Trầm Đáy Nước (Đại Hung - Chìm Thuyền)",
+    "tho": "Sóng lớn cuồng phong dập mạn thuyền,\nGiữa dòng chết đứng họa triền miên.\nCông danh sự nghiệp trôi theo nước,\nĐể lại lòng đau nỗi muộn phiền.",
+    "tongquan": "Cực kỳ xấu. Kế hoạch hoặc công việc xây dựng bấy lâu có nguy cơ đổ vỡ hoàn toàn. Cần cẩn trọng tối đa mọi hành vi.",
+    "tailoc": "Thất bát nặng nề, tránh xa các dự án góp vốn kẻo mất cả chì lẫn chài.",
+    "giadao": "Đề phòng gia đình có tang sự hoặc tranh chấp đất đai, tài sản gay gắt.",
+    "tinhduyen": "Mối quan hệ đi đến hồi kết, đổ vỡ không thể cứu vãn do tổn thương sâu sắc."
+  },
+  {
+    "ten": "Quẻ Số 23: Tinh Nguyệt Giao Huy (Thượng Cát - Sao Trăng Cùng Sáng)",
+    "tho": "Sao trăng cùng sáng giữa trời cao,\nTỏa ánh hào quang đẹp biết bao.\nBạn bè đồng chí cùng chung sức,\nMưu sự thành công thỏa ước ao.",
+    "tongquan": "Quẻ biểu thị sự hợp tác thành công. Gặp được cộng sự tốt, bạn bè chung tay giúp đỡ nên công việc tiến triển rất nhanh.",
+    "tailoc": "Kinh doanh chung có lãi lớn, chia chác sòng phẳng, tài chính đi lên.",
+    "giadao": "Họ hàng tương trợ, gia đình gắn kết, con cái ngoan ngoãn hiếu thảo.",
+    "tinhduyen": "Mối tình đẹp đẽ, đôi bên luôn tin tưởng và làm chỗ dựa vững chắc cho nhau."
+  },
+  {
+    "ten": "Quẻ Số 24: Hàn Đàm Điếu Ngư (Bình Thường - Câu Cá Đầm Lạnh)",
+    "tho": "Đầm lạnh buông cần đợi cá ăn,\nTrời chiều gió rét buốt đôi chân.\nKiên tâm nhẫn nại chờ thời khắc,\nVội vã làm chi luống nhọc cằn.",
+    "tongquan": "Vận khí ở mức trung bình thấp. Đòi hỏi bạn phải có sự kiên trì rất lớn mới đạt được kết quả, không thể ăn xổi ở thì.",
+    "tailoc": "Tiền bạc kiếm được chậm rãi, thu nhập nhỏ giọt nhưng đều đặn.",
+    "giadao": "Mọi việc bình lặng, chú ý chăm sóc sức khỏe tinh thần cho người thân.",
+    "tinhduyen": "Tình cảm không có nhiều tiến triển, đôi bên cần thêm thời gian tìm hiểu sâu hơn."
+  },
+  {
+    "ten": "Quẻ Số 25: Cẩm Thượng Thiêm Hoa (Đại Cát - Thêu Hoa Trên Gấm)",
+    "tho": "Lụa gấm thêu hoa đẹp tuyệt vời,\nNiềm vui nhân gấp bội phần tươi.\nTài lộc công danh đều viên mãn,\nMở miệng mở lòng thỏa tiếng cười.",
+    "tongquan": "Quẻ cát tường, may mắn nối tiếp may mắn. Đã tốt lại càng tốt hơn, có quý nhân mang thêm cơ hội lớn đến.",
+    "tailoc": "Tiền đẻ ra tiền, đầu tư trúng đậm, cuộc sống giàu sang phú quý.",
+    "giadao": "Gia đình viên mãn, liên tục tổ chức tiệc tùng chúc mừng tin vui.",
+    "tinhduyen": "Tình yêu thăng hoa, có thể tiến tới hôn nhân hạnh phúc trong năm."
+  },
+  {
+    "ten": "Quẻ Số 26: Ảo Ảnh Sa Mạc (Hạ Hung - Nhìn Nhầm Nước)",
+    "tho": "Khát nước nhìn ra ngỡ vũng hồ,\nChạy hoài chạy mãi đất hoang khô.\nLòng tham mờ mắt tin lời hứa,\nTự rước vào thân nỗi tủi đồ.",
+    "tongquan": "Cảnh báo về sự lừa đảo. Những cơ hội việc làm hay làm giàu trông có vẻ ngon ăn thực chất chỉ là bẫy. Hãy tỉnh táo.",
+    "tailoc": "Nguy cơ bị lừa tiền qua mạng rất cao. Không bấm vào link lạ hay tham gia hội nhóm tài chính.",
+    "giadao": "Các thành viên thiếu tin tưởng nhau, dễ nảy sinh nghi ngờ, rạn nứt.",
+    "tinhduyen": "Phát hiện đối phương giấu giếm bí mật lớn, lòng tin bị lung lay."
+  },
+  {
+    "ten": "Quẻ Số 27: Điểu Phóng Thiên Không (Thượng Cát - Chim Về Trời Xanh)",
+    "tho": "Lồng mở chim bay thấu tận trời,\nTự do tự tại lượn muôn nơi.\nBao ngày tù túng nay kết thúc,\nCuộc đời đổi khác rạng ngời tươi.",
+    "tongquan": "Thoát khỏi sự kìm kẹp, giới hạn của bản thân. Bạn chuẩn bị bước vào một môi trường mới tự do và nhiều cơ hội phát triển hơn.",
+    "tailoc": "Tài chính tự chủ, thoát khỏi cảnh nợ nần hoặc phụ thuộc kinh tế.",
+    "giadao": "Gia đình bớt đi gánh nặng lo âu bấy lâu nay, bầu không khí nhẹ nhàng.",
+    "tinhduyen": "Người độc thân cảm thấy yêu đời, sẵn sàng mở lòng đón nhận tình yêu mới."
+  },
+  {
+    "ten": "Quẻ Số 28: Đăng Hỏa Huy Hoàng (Trung Cát - Đèn Hoa Rực Rỡ)",
+    "tho": "Đèn hoa rực rỡ sáng đêm thâu,\nTiệc tùng vui vẻ tiễn u sầu.\nBạn bè tụ họp cùng vui sướng,\nCuộc đời tươi đẹp thắm muôn màu.",
+    "tongquan": "Vận số có duyên với các hoạt động xã hội, tiệc tùng. Mối quan hệ ngoại giao mở rộng, giúp ích rất nhiều cho tương lai.",
+    "tailoc": "Hào phóng chi tiêu nhưng tài lộc vẫn vào đều, có lộc ăn uống ngập tràn.",
+    "giadao": "Họ hàng quý mến, gia đình luôn rộn rã tiếng cười của khách khứa ghé thăm.",
+    "tinhduyen": "Được nhiều người săn đón, chú ý, đào hoa nở rộ mạnh mẽ."
+  },
+  {
+    "ten": "Quẻ Số 29: Tuyệt Xứ Phùng Sinh (Trung Cát - Trong Bế Tắc Có Đường Sống)",
+    "tho": "Đường cùng tưởng hết lối đi rồi,\nBỗng đâu vách đá hé khe soi.\nTrong cơn hoạn nạn tìm cơ hội,\nĐổi đời đứng thẳng ngắm mây trôi.",
+    "tongquan": "Gặp khó khăn lớn tưởng chừng bỏ cuộc thì phút chót lại tìm được cách giải quyết kỳ diệu. Vạn sự chuyển hung thành cát.",
+    "tailoc": "Nguồn tiền tưởng mất lại đòi lại được, hoặc có người cho vay lúc ngặt nghèo.",
+    "giadao": "Hóa giải được mâu thuẫn lớn tưởng chừng phải ly tán.",
+    "tinhduyen": "Sau trận cãi vã đòi chia tay, hai người lại thêm hiểu và yêu nhau hơn."
+  },
+  {
+    "ten": "Quẻ Số 30: Hàn Phong Lạc Diệp (Đại Hung - Lá Rụng Trong Gió Lạnh)",
+    "tho": "Gió lạnh tràn về lá rụng rơi,\nCành trơ xơ xác giữa đất trời.\nThân đơn gối chiếc sầu vạn dặm,\nLệ thầm tuôn chảy dạ chơi vơi.",
+    "tongquan": "Quẻ đại hung. Dự báo sự cô độc, thất bại và suy sụp tinh thần. Nên hạn chế mọi hoạt động, tập trung nghỉ ngơi giữ sức.",
+    "tailoc": "Tài chính cạn kiệt, đề phòng bị quỵt nợ hoặc mất mát tài sản lớn.",
+    "giadao": "Gia đình có xung đột lớn, tình cảm rạn nứt sâu sắc, khó hòa giải.",
+    "tinhduyen": "Chia ly, đổ vỡ, cô đơn gối chiếc, lòng đầy tổn thương."
+  },
+  {
+    "ten": "Quẻ Số 31: Xuân Phong Đắc Ý (Đại Cát - Gió Xuân Thỏa Lòng)",
+    "tho": "Gió xuân phơi phới dạ trung trinh,\nMưu sự thành công rạng chữ tình.\nCông danh thăng tiến tiền đầy túi,\nCuộc đời rực rỡ ánh bình minh.",
+    "tongquan": "Mọi mong muốn ước cầu trong lòng đều được toại nguyện. Tinh thần phấn chấn, làm gì cũng suôn sẻ.",
+    "tailoc": "Tiền tài tự đến, nhận được hợp đồng lớn hoặc phần thưởng giá trị.",
+    "giadao": "Yên vui, ngập tràn tiếng cười, con cái đem về thành tích cao.",
+    "tinhduyen": "Tình duyên chớm nở đẹp đẽ, đôi lứa thấu hiểu, yêu thương nồng nàn."
+  },
+  {
+    "ten": "Quẻ Số 32: Đao Quang Kiếm Ảnh (Đại Hung - Điềm Báo Tranh Chấp)",
+    "tho": "Ánh đao kiếm sắc loáng trời cao,\nTranh giành đoạt lợi dạ xôn xao.\nTai họa sát thân kề cận bước,\nLùi bước bình tâm lánh nạn trào.",
+    "tongquan": "Quẻ cực xấu liên quan đến pháp luật, tranh chấp hoặc bạo lực. Tránh xa các cuộc cãi vã, va chạm giao thông.",
+    "tailoc": "Dễ vướng vào kiện tụng mất tiền, hao tài tốn của cho luật pháp.",
+    "giadao": "Gia đạo bất hòa, anh em tranh chấp tài sản gay gắt.",
+    "tinhduyen": "Mối quan hệ có sự ghen tuông mù quáng dẫn đến xung đột nguy hiểm."
+  },
+  {
+    "ten": "Quẻ Số 33: Kim Ngọc Mãn Đường (Đại Cát - Vàng Ngọc Đầy Nhà)",
+    "tho": "Vàng ngọc đầy nhà của cải dư,\nCuộc sống giàu sang thỏa tâm từ.\nTích đức hành thiện dòng họ thịnh,\nTương lai vinh hiển chẳng hề hư.",
+    "tongquan": "Quẻ phú quý cực đỉnh. Tài lộc tích tụ dồi dào, gia đình hưng vượng. Hãy năng làm việc thiện để giữ phúc đức.",
+    "tailoc": "Tiền bạc sung túc, mua nhà mua đất thuận lợi, tài sản tăng vọt.",
+    "giadao": "Hạnh phúc viên mãn, dòng tộc vẻ vang, con cháu hiếu thảo.",
+    "tinhduyen": "Hôn nhân môn đăng hộ đối, vợ chồng đồng lòng tát biển đông cũng cạn."
+  },
+  {
+    "ten": "Quẻ Số 34: Nguyệt Khuyết Trùng Viên (Trung Cát - Trăng Khuyết Lại Tròn)",
+    "tho": "Trăng khuyết bao đêm nay lại tròn,\nTình xưa nghĩa cũ vẫn vẹn son.\nQua cơn bĩ cực tới hồi thái,\nHạnh phúc đong đầy dạ chẳng mòn.",
+    "tongquan": "Mọi sự dang dở trước đây giờ có cơ hội hàn gắn và hoàn thiện lại. Kiên trì với mục tiêu cũ sẽ có kết quả tốt.",
+    "tailoc": "Kinh doanh thua lỗ trước đây bắt đầu hòa vốn và sinh lời trở lại.",
+    "giadao": "Người thân đi xa trở về sum họp, gia đình ngập tràn niềm vui.",
+    "tinhduyen": "Yêu lại người cũ hoặc hóa giải hoàn toàn mâu thuẫn, tình cảm mặn nồng như xưa."
+  },
+  {
+    "ten": "Quẻ Số 35: Lâm Thâm Lộ Mê (Hạ Hung - Rừng Sâu Lạc Lối)",
+    "tho": "Rừng sâu lối rậm sương mờ lối,\nĐi mãi đi hoài dạ bối rối.\nChớ bước liều lĩnh sa hố sâu,\nDừng chân chờ sáng qua đêm tối.",
+    "tongquan": "Bạn đang bị quá tải hoặc lạc lối trong mớ hỗn độn của công việc/cuộc sống. Đừng vội vã đưa ra quyết định thay đổi lúc này.",
+    "tailoc": "Tài chính bế tắc, thu không đủ chi, tránh vay mượn lãi cao.",
+    "giadao": "Bầu không khí u ám, các thành viên thiếu sự chia sẻ, đồng cảm.",
+    "tinhduyen": "Mối quan hệ mệt mỏi, mập mờ, không rõ ràng tương lai khiến bạn kiệt sức."
+  },
+  {
+    "ten": "Quẻ Số 36: Thiên Thần Hộ Hữu (Thượng Cát - Thần Linh Che Chở)",
+    "tho": "Trời cao soi xét tấm lòng thành,\nChe chở tiêu tan tai họa oanh.\nVạn sự bình an nhờ phước đức,\nĐường đời rộng mở bước đi nhanh.",
+    "tongquan": "Có vận may tâm linh rất lớn, được ơn trên che chở nên gặp dữ hóa lành, tai qua nạn khỏi trong gang tấc.",
+    "tailoc": "Bình ổn và phát triển nhẹ, có của ăn của để nhờ chi tiêu hợp lý.",
+    "giadao": "Gia đình bình an, người ốm đau tai qua nạn khỏi, sức khỏe tiến triển tốt.",
+    "tinhduyen": "Mối quan hệ chân thành, được bề trên chúc phúc, ủng hộ nhiệt tình."
+  },
+  {
+    "ten": "Quẻ Số 37: Ốc Lậu Phùng Vũ (Đại Hung - Nhà Dột Gặp Mưa Đêm)",
+    "tho": "Nhà dột lại gặp mưa đêm lạnh,\nTai họa dồn dập thân cô quạnh.\nTrắng tay chịu đựng cơn bão tố,\nLòng đau tê tái dạ đành hanh.",
+    "tongquan": "Hạn xui dồn dập, họa vô đơn chí. Những việc tồi tệ xảy ra cùng một lúc khiến bạn kiệt quệ. Cần cực kỳ kiên cường để chịu đựng.",
+    "tailoc": "Thất thoát tiền bạc nặng nề, đề phòng bị lừa lọc hoặc mất tài sản quý giá.",
+    "giadao": "Gia đạo xáo trộn lớn, có chuyện buồn phiền đổ ập xuống.",
+    "tinhduyen": "Tình cảm đổ vỡ, chia tay trong đau đớn và nuối tiếc."
+  },
+  {
+    "ten": "Quẻ Số 38: Thanh Vân Đắc Lộ (Thượng Cát - Lên Mây Xanh)",
+    "tho": "Đường lên mây xanh rộng mở tầm,\nCông danh sự nghiệp thỏa ước tâm.\nTừ đây cất cánh bay cao mãi,\nTài lộc dồi dào tiếng vang thâm.",
+    "tongquan": "Cơ hội thăng quan tiến chức, nâng cao địa vị xã hội đã đến. Tài năng được công nhận và tôn vinh.",
+    "tailoc": "Tài vận hanh thông, nguồn thu nhập tăng vọt từ công việc chính.",
+    "giadao": "Gia đình tự hào, dòng họ nở mày nở mặt vì thành tựu của bạn.",
+    "tinhduyen": "Người độc thân có sức hút lớn, dễ lọt vào mắt xanh của người có điều kiện tốt."
+  },
+  {
+    "ten": "Quẻ Số 39: Minh Châu Ám Muội (Trung Hung - Ngọc Quý Bị Bám Bụi)",
+    "tho": "Ngọc quý lâu ngày bám bụi mờ,\nNgười đời chẳng biết ngỡ đất dơ.\nTài năng che lấp chưa ai thấy,\nLòng ôm sầu muộn luống ngẩn ngơ.",
+    "tongquan": "Tài năng của bạn chưa được đặt đúng chỗ hoặc bị kẻ xấu chèn ép, làm lu mờ. Hãy nhẫn nại, tìm kiếm môi trường mới phù hợp hơn.",
+    "tailoc": "Tài lộc trì trệ, tiền bạc làm ra nhiều nhưng bị thất thoát hoặc không giữ được.",
+    "giadao": "Có sự hiểu lầm giữa cha mẹ và con cái do khoảng cách thế hệ.",
+    "tinhduyen": "Tình cảm chân thành của bạn không được đối phương trân trọng, lòng đầy tổn thương."
+  },
+  {
+    "ten": "Quẻ Số 40: Khang Trang Đại Lộ (Thượng Cát - Đường Đi Rộng Rãi)",
+    "tho": "Đường đi rộng rãi đất thênh thang,\nVạn sự lo toan thảy vững vàng.\nBước chân tự tin đường phía trước,\nTương lai rực rỡ ánh vàng sang.",
+    "tongquan": "Mọi chướng ngại vật trên đường đi của bạn đã được dọn sạch. Từ giờ việc học hành, công việc sẽ vô cùng thuận lợi.",
+    "tailoc": "Tài lộc bình ổn và có xu hướng tăng dần đều, chi tiêu thoải mái.",
+    "giadao": "Gia quyến bình an, các thành viên khỏe mạnh, thấu hiểu nhau.",
+    "tinhduyen": "Mối quan hệ tiến triển tự nhiên, êm đẹp, không gặp bất kỳ sự ngăn cấm nào."
+  },
+  {
+    "ten": "Quẻ Số 41: Diều Hâu Gặp Gió (Trung Cát - Thăng Tiến Nhẹ)",
+    "tho": "Diều nương sức gió lượn trời cao,\nThỏa chí vẫy vùng dạ nôn nao.\nTuy chưa bằng phượng bằng hoàng quý,\nNhưng cũng tự do bước tự hào.",
+    "tongquan": "Vận khí đang lên, tận dụng tốt sự giúp đỡ của người khác để đưa bản thân lên vị trí cao hơn. Cần khiêm tốn.",
+    "tailoc": "Có thêm thu nhập từ các công việc tay trái, tài chính khá khẩm.",
+    "giadao": "Bình an ổn định, gia đình có những cuộc tụ họp ăn uống vui vẻ.",
+    "tinhduyen": "Tình cảm tiến triển vui vẻ, đôi bên có nhiều kỷ niệm đẹp trong ngày."
+  },
+  {
+    "ten": "Quẻ Số 42: Hoa Khai Phú Quý (Đại Cát - Hoa Nở Giàu Sang)",
+    "tho": "Mẫu đơn nở rộ sắc hương nồng,\nPhú quý giàu sang thỏa ước mong.\nVạn sự cát tường nay hiện rõ,\nCuộc đời hạnh phúc thắm tơ hồng.",
+    "tongquan": "Quẻ đại cát đại lợi, mang lại sự giàu sang và danh vọng. Thích hợp để tiến hành cưới hỏi, khai trương, động thổ.",
+    "tailoc": "Tài lộc hanh thông đỉnh điểm, tiền bạc rủng rỉnh, mua may bán đắt.",
+    "giadao": "Gia đình hòa thuận viên mãn, có hỷ sự đưa tới (cưới xin hoặc sinh con).",
+    "tinhduyen": "Tình duyên nở rộ, đôi lứa thề non hẹn biển, hạnh phúc bền lâu."
+  },
+  {
+    "ten": "Quẻ Số 43: Thư Hùng Biệt Ly (Đại Hung - Chia Ly Đau Đớn)",
+    "tho": "Chim bay đôi ngả cánh chia phôi,\nTình nghĩa bấy lâu bỗng tan rồi.\nLệ tuôn nghẹn ngào nơi khóe mắt,\nSầu hận thiên thu dạ bồi hồi.",
+    "tongquan": "Quẻ hung về mặt tình cảm và các mối quan hệ. Đề phòng sự chia ly, rạn nứt lớn không thể hàn gắn.",
+    "tailoc": "Tránh hùn hạp làm ăn chung kẻo xảy ra tranh chấp dẫn đến vạch mặt nhau.",
+    "giadao": "Gia đình có nguy cơ ly tán, vợ chồng mâu thuẫn đỉnh điểm.",
+    "tinhduyen": "Đổ vỡ, chia tay, tình cảm lạnh nhạt khó cứu vãn."
+  },
+  {
+    "ten": "Quẻ Số 44: Thủy Đáo Cừ Thành (Thượng Cát - Nước Chảy Thành Sông)",
+    "tho": "Nước chảy lâu ngày thành rạch sâu,\nMưu sự tự nhiên chẳng lo sầu.\nThời cơ chín muồi vạn sự đạt,\nThành quả ngọt ngào thỏa ngẩng đầu.",
+    "tongquan": "Mọi việc thuận theo tự nhiên sẽ tự động thành công mà không cần cưỡng ép. Những gì bạn kiên trì bấy lâu nay đã có kết quả.",
+    "tailoc": "Tiền bạc đổ về tự nhiên như nước chảy, không cần vất vả tranh giành.",
+    "giadao": "Gia đạo yên vui, cuộc sống bình ổn, êm ấm.",
+    "tinhduyen": "Tình cảm chín muồi, tự động đi đến cái kết hạnh phúc bằng một đám cưới."
+  },
+  {
+    "ten": "Quẻ Số 45: Hổ Lạc Bình Dương (Hạ Hung - Cọp Xuống Đồng Bằng)",
+    "tho": "Chúa sơn lâm xuống chốn đồng bằng,\nBị lũ chó hoang quấy băn khoăn.\nTài giỏi đến đâu thời chưa tới,\nẨn mình nhẫn nhịn giữ hàm răng.",
+    "tongquan": "Bạn đang ở vị thế bất lợi, dễ bị những kẻ kém cỏi hơn chọc phá, chơi xấu. Cần hạ cái tôi xuống để bảo toàn bản thân.",
+    "tailoc": "Tài vận sụt giảm, làm ăn dễ bị quỵt tiền hoặc ép giá.",
+    "giadao": "Trong nhà có kẻ tiểu nhân nói xấu sau lưng, gây chia rẽ tình cảm.",
+    "tinhduyen": "Mối quan hệ bị người ngoài dèm pha, tác động tiêu cực, gây hiểu lầm."
+  },
+  {
+    "ten": "Quẻ Số 46: Thiên Lý Quy Gia (Trung Cát - Vạn Dặm Về Nhà)",
+    "tho": "Vạn dặm xa xôi nay trở về,\nẤm áp tình thương chốn làng quê.\nGác lại âu lo đời bão tố,\nBình an tự tại thỏa lòng mê.",
+    "tongquan": "Sau thời gian bôn ba vất vả, đây là lúc bạn tìm thấy bến đỗ bình yên. Có duyên đi xa hoặc đón người thân ở xa về.",
+    "tailoc": "Tài lộc ở mức ổn định, có tiền mang về phụ giúp gia đình.",
+    "giadao": "Sum họp vui vẻ, gia quyến bình an, thắt chặt tình cảm ruột thịt.",
+    "tinhduyen": "Sự xa cách giúp hai bạn thêm trân trọng nhau, tình cảm mặn nồng."
+  },
+  {
+    "ten": "Quẻ Số 47: Khúc Kính Thông U (Bình Thường - Đường Cong Lối Nhỏ)",
+    "tho": "Đường quanh lối nhỏ lượn quanh co,\nMưu sự gian truân phải đắn đo.\nTuy không nguy hiểm nhưng chậm bước,\nKiên nhẫn đi hoài chí mới to.",
+    "tongquan": "Công việc gặp chút quanh co, trắc trở nhỏ khiến tiến độ bị chậm lại. Không đáng ngại, chỉ cần kiên trì gỡ rối từng chút một.",
+    "tailoc": "Tiền bạc thu về chậm hơn dự kiến, cần tính toán chi tiêu hợp lý.",
+    "giadao": "Gia đình bình thường, có một vài việc nhỏ cần giải quyết thỏa đáng.",
+    "tinhduyen": "Mối quan hệ tiến triển chậm rãi, cần nhiều thời gian để thực sự thấu hiểu."
+  },
+  {
+    "ten": "Quẻ Số 48: Phượng Hoàng Tái Sinh (Đại Cát - Hồi Sinh Mạnh Mẽ)",
+    "tho": "Từ trong tro tàn phượng hoàng bay,\nRực rỡ hào quang giữa trời mây.\nRũ bỏ đau thương thời quá khứ,\nTương lai vinh hiển nắm trong tay.",
+    "tongquan": "Mở ra một kỷ nguyên hoàn toàn mới cho cuộc đời bạn sau những đổ vỡ, thất bại nặng nề. Bạn sẽ trở lại mạnh mẽ hơn bao giờ hết.",
+    "tailoc": "Tài vận lội ngược dòng xuất sắc, tiền bạc dồi dào trở lại.",
+    "giadao": "Gia đình vượt qua đại nạn, cuộc sống bắt đầu hưng thịnh.",
+    "tinhduyen": "Sau tổn thương, bạn tìm thấy tình yêu đích thực, hạnh phúc viên mãn."
+  },
+  {
+    "ten": "Quẻ Số 49: Kiếm Sắc Sứt Mẻ (Trung Hung - Công Cụ Hư Hỏng)",
+    "tho": "Gươm báu bấy lâu bỗng mẻ cành,\nMưu sự gian truân khó lòng thành.\nCông cụ lực lượng đều suy yếu,\nNên dừng rèn luyện lánh đua tranh.",
+    "tongquan": "Cho thấy sức khỏe suy giảm hoặc công cụ làm việc gặp sự cố. Tránh làm việc quá sức, chú ý bảo dưỡng xe cộ, máy móc.",
+    "tailoc": "Hao tài tốn của cho việc sửa chữa đồ đạc, xe cộ hoặc chữa bệnh.",
+    "giadao": "Sức khỏe của bản thân hoặc người thân có dấu hiệu sa sút, cần đi khám.",
+    "tinhduyen": "Đôi bên mệt mỏi vì áp lực cuộc sống, thiếu thời gian quan tâm nhau."
+  },
+  {
+    "ten": "Quẻ Số 50: Vạn Tượng Canh Tân (Đại Cát - Mọi Thứ Đổi Mới)",
+    "tho": "Đất trời đổi mới vạn vật sinh,\nCảnh sắc tươi vui rạng chữ tình.\nMưu sự chuyển biến theo chiều tốt,\nTương lai rực rỡ ánh bình minh.",
+    "tongquan": "Quẻ báo hiệu sự đổi mới tích cực. Rất tốt cho việc chuyển nhà, đổi việc, thay đổi kiểu tóc hoặc bắt đầu một thói quen tốt.",
+    "tailoc": "Có cơ hội đầu tư mới đầy tiềm năng, tiền bạc hanh thông.",
+    "giadao": "Gia đình thay đổi diện mạo, sắm sửa đồ đạc mới, tràn ngập sinh khí.",
+    "tinhduyen": "Mối quan hệ bước sang trang mới, ngọt ngào và thấu hiểu nhau hơn."
+  },
+  {
+    "ten": "Quẻ Số 51: Ngọc Nữ Hiến Thụy (Thượng Cát - Điềm Lành Đưa Tới)",
+    "tho": "Điềm lành đưa tới tận tầm tay,\nMay mắn vây quanh suốt cả ngày.\nQuý nhân giúp đỡ mưu sự đạt,\nCuộc đời vui vẻ dạ mê say.",
+    "tongquan": "Vận khí cực tốt, đi đâu cũng có người giúp đỡ, yêu mến. Công việc trôi chảy, gặp nhiều may mắn bất ngờ.",
+    "tailoc": "Tài lộc dồi dào, dễ có lộc tiền thưởng, quà tặng từ người khác phái.",
+    "giadao": "Gia đạo yên vui, nhận được sự hỗ trợ lớn từ họ hàng thân thích.",
+    "tinhduyen": "Đào hoa vượng, người độc thân được người khác tỏ tình, đưa đón."
+  },
+  {
+    "ten": "Quẻ Số 52: Nguyệt Nhiễm Ô Vân (Hạ Hung - Trăng Bị Che Mờ)",
+    "tho": "Trăng thanh bỗng nhiễm bóng mây đen,\nTối tăm mù mịt lối đi quen.\nKẻ xấu rình rập chờ sơ hở,\nTỉnh táo giữ mình chớ đua chen.",
+    "tongquan": "Cảnh báo có kẻ tiểu nhân ghen ghét, hãm hại sau lưng. Né tránh việc tranh luận, cãi vã với người khác trong hôm nay.",
+    "tailoc": "Dễ bị tổn thất tiền bạc do tin nhầm người. Tuyệt đối không cho vay mượn.",
+    "giadao": "Đề phòng lời ra tiếng vào của hàng xóm láng giềng gây mất hòa khí.",
+    "tinhduyen": "Có người thứ ba tìm cách chọc ngoáy, phá hoại tình cảm đôi lứa."
+  },
+  {
+    "ten": "Quẻ Số 53: Thuyền Quy Cảng Cũ (Trung Cát - Thuyền Về Bến Yên)",
+    "tho": "Bôn ba sóng gió dặm khơi xa,\nNay lại quay về bến quê nhà.\nSóng lặng gió êm lòng tự tại,\nTừ đây cuộc sống thắm ngàn hoa.",
+    "tongquan": "Biểu thị sự bình yên và ổn định sau chuỗi ngày vất vả. Thích hợp để củng cố lại những gì đang có hơn là mở rộng.",
+    "tailoc": "Tài chính đi vào quỹ đạo ổn định, kiểm soát tốt chi tiêu.",
+    "giadao": "Gia đình hòa thuận, con cái ngoan ngoãn, bầu không khí ấm áp.",
+    "tinhduyen": "Mối quan hệ tìm được sự đồng điệu, hai người tính đến chuyện tương lai lâu dài."
+  },
+  {
+    "ten": "Quẻ Số 54: Tù Điểu Thoát Lồng (Thượng Cát - Chim Sổ Lồng)",
+    "tho": "Bấy lâu tù túng chốn lồng son,\nNay được bay cao dạ chẳng mòn.\nBiển rộng trời cao tùy ý lượn,\nTự do tự tại thỏa lòng con.",
+    "tongquan": "Báo hiệu việc trút bỏ được gánh nặng pháp lý, nợ nần hoặc áp lực tinh thần đè nặng bấy lâu nay. Tinh thần tự do.",
+    "tailoc": "Kinh tế khởi sắc, bắt đầu có tiền tích lũy sau khi trả hết nợ.",
+    "giadao": "Hóa giải được các tranh chấp, khúc mắc lâu năm trong dòng họ.",
+    "tinhduyen": "Rũ bỏ được mối quan hệ độc hại, người độc thân tìm lại niềm vui sống."
+  },
+  {
+    "ten": "Quẻ Số 55: Tuyết Thượng Gia Sương (Đại Hung - Trên Tuyết Thêm Sương)",
+    "tho": "Tuyết phủ lạnh lùng lại thêm sương,\nHai tầng tai họa dặm trường vương.\nThân đơn gánh vác muôn phần khổ,\nCầu trời khấn phật xót xầu thương.",
+    "tongquan": "Họa vô đơn chí, khó khăn này chưa qua khó khăn khác đã ập đến. Cực kỳ xấu cho việc khởi sự hay đi xa.",
+    "tailoc": "Kinh tế cạn kiệt, đề phòng mất cắp đồ đạc hoặc bị phạt tiền.",
+    "giadao": "Gia đình có người đau ốm, hao tốn nhiều tiền của để chạy chữa.",
+    "tinhduyen": "Xung đột đỉnh điểm, cãi vã lớn vì vấn đề tiền bạc, rạn nứt sâu sắc."
+  },
+  {
+    "ten": "Quẻ Số 56: Thanh Vân Đắc Lộ (Thượng Cát - Lên Mây Xanh)",
+    "tho": "Đường lên mây xanh rộng mở tầm,\nCông danh sự nghiệp thỏa ước tâm.\nTừ đây cất cánh bay cao mãi,\nTài lộc dồi dào tiếng vang thâm.",
+    "tongquan": "Cơ hội thăng quan tiến chức, nâng cao địa vị xã hội đã đến. Tài năng được công nhận và tôn vinh.",
+    "tailoc": "Tài vận hanh thông, nguồn thu nhập tăng vọt từ công việc chính.",
+    "giadao": "Gia đình tự hào, dòng họ nở mày nở mặt vì thành tựu của bạn.",
+    "tinhduyen": "Người độc thân có sức hút lớn, dễ lọt vào mắt xanh của người có điều kiện tốt."
+  },
+  {
+    "ten": "Quẻ Số 57: Nhất Kích Tất Trúng (Đại Cát - Đánh Đâu Trúng Đó)",
+    "tho": "Thời cơ chờ đợi bấy lâu nay,\nMột mũi tên bay trúng đích ngay.\nMưu sự thành công ngoài mong đợi,\nTài lộc danh vọng nắm trong tay.",
+    "tongquan": "Quẻ đại cát cho thấy sự quyết đoán đem lại thành công vang dội. Cơ hội xuất hiện chỉ trong chớp nhoáng, hãy nắm bắt ngay.",
+    "tailoc": "Đầu tư ngắn hạn trúng đậm, tiền bạc thu về nhanh chóng và dồi dào.",
+    "giadao": "Gia đình đón nhận tin vui bất ngờ về công danh hoặc đất đai.",
+    "tinhduyen": "Tỏ tình thành công, người bạn thầm thương bấy lâu nay cũng có tình cảm với bạn."
+  },
+  {
+    "ten": "Quẻ Số 58: Bình Địa Khởi Ba (Hạ Hung - Đất Bằng Nổi Sóng)",
+    "tho": "Đất bằng bỗng nổi sóng rầm rầm,\nTai họa bất ngờ khiến dạ thâm.\nĂn ở hiền lành chờ vận chuyển,\nChớ nên tranh đoạt chuốc sầu ngâm.",
+    "tongquan": "Dự báo có biến động lớn hoặc tai tiếng bất ngờ ập đến phá vỡ cuộc sống bình yên. Cần giữ bình tĩnh tối đa.",
+    "tailoc": "Cẩn thận trong việc ký kết giấy tờ, đề phòng sơ hở gây thất thoát tiền bạc.",
+    "giadao": "Gia đạo có tranh cãi, bất hòa xuất phát từ sự hiểu lầm của người ngoài.",
+    "tinhduyen": "Mối quan hệ gặp sóng gió do sự ghen tuông vô cớ hoặc tin đồn thất thiệt."
+  },
+  {
+    "ten": "Quẻ Số 59: Kim Bảng Đề Danh (Đại Cát - Bảng Vàng Ghi Tên)",
+    "tho": "Bao năm đèn sách chịu gian truân,\nNgày nay thức giấc đón chúa xuân.\nBảng vàng chói lọi tên cao quý,\nVinh hiển tông đường, vẹn tổ quân.",
+    "tongquan": "Rất tốt cho học hành, thi cử, ứng tuyển công việc. Bạn sẽ đạt kết quả xuất sắc, đứng đầu danh sách.",
+    "tailoc": "Hanh thông rộng mở, cầu tài được tài, kinh doanh đắc lợi.",
+    "giadao": "Gia quyến rạng rỡ niềm vui, họ hàng đến chúc mừng nườm nượp.",
+    "tinhduyen": "Tình yêu đôi lứa viên mãn, có sự gắn kết bền chặt, được hai bên ủng hộ."
+  },
+  {
+    "ten": "Quẻ Số 60: Hoang Địa Cam Lâm (Trung Cát - Mưa Rào Trên Đất Khô)",
+    "tho": "Đất khô nứt nẻ đợi mưa sa,\nTrời đổ mưa rào khắp gần xa.\nVạn vật hồi sinh tràn sức sống,\nNỗi buồn tan biến dạ ngân nga.",
+    "tongquan": "Cứu cánh xuất hiện kịp thời giải vây cho khó khăn của bạn. Mọi sự bế tắc bấy lâu nay bắt đầu tan biến.",
+    "tailoc": "Giải quyết được khủng hoảng tài chính, có nguồn tiền mới trợ giúp.",
+    "giadao": "Bầu không khí căng thẳng trong nhà dịu xuống, mọi người bao dung cho nhau hơn.",
+    "tinhduyen": "Sự xuất hiện của đối phương như một làn gió mát làm dịu đi tâm hồn cô đơn của bạn."
+  },
+  {
+    "ten": "Quẻ Số 61: Kim Kê Báo Hiểu (Thượng Cát - Gà Vàng Báo Thức)",
+    "tho": "Gà vàng cất tiếng gáy vang trời,\nBáo hiệu bình minh rạng khắp nơi.\nBóng tối tan đi ngày mới đến,\nCông danh phú quý thỏa lòng tươi.",
+    "tongquan": "Quẻ báo hiệu thời kỳ tăm tối đã qua hoàn toàn, hào quang ngày mới đang đến. Làm việc gì cũng tràn đầy năng lượng.",
+    "tailoc": "Tài lộc khởi sắc, có quý nhân vạch lối chỉ đường cho cách kiếm tiền mới.",
+    "giadao": "Gia đạo yên vui, đón nhận nhiều năng lượng tích cực, may mắn.",
+    "tinhduyen": "Người độc thân sớm gặp được đối tượng tâm đầu ý hợp trong công việc."
+  },
+  {
+    "ten": "Quẻ Số 62: Manh Nhân Kỵ Hạt Mã (Đại Hung - Người Mù Cưỡi Ngựa Què)",
+    "tho": "Người mù cưỡi ngựa đã què chân,\nĐi bên vực thẳm dạ bần thần.\nTài hèn chí muội mưu việc lớn,\nTự rước tai ương họa sát thân.",
+    "tongquan": "Quẻ cực xấu. Cho thấy hành vi liều lĩnh, thiếu hiểu biết sẽ dẫn đến hậu quả thảm khốc. Hãy dừng ngay các việc mạo hiểm.",
+    "tailoc": "Nguy cơ phá sản, trắng tay do tham gia cờ bạc, cá độ hoặc đầu tư liều.",
+    "giadao": "Gia đạo bất an nghiêm trọng, đề phòng có tang sự hoặc tai nạn lớn.",
+    "tinhduyen": "Mối quan hệ rạn nứt không thể cứu vãn vì sự lừa dối, bất chấp."
+  },
+  {
+    "ten": "Quẻ Số 63: Ngư Nhảy Vũ Môn (Đại Cát - Cá Chép Hóa Rồng)",
+    "tho": "Cá vượt vũ môn hóa rồng bay,\nHào quang tỏa rạng khắp trời mây.\nBao năm kiên nhẫn nay thành tựu,\nVinh hiển ngập tràn nắm trong tay.",
+    "tongquan": "Quẻ bước ngoặt cuộc đời. Bạn có sự thay đổi lớn về vị thế, đẳng cấp (đỗ đạt, thăng chức lớn, đổi đời).",
+    "tailoc": "Tài vận hanh thông đỉnh cao, tiền bạc đổ về dồi dào, không lo túng thiếu.",
+    "giadao": "Gia đình vẻ vang, nở mày nở mặt với thiên hạ, tổ tông có phúc.",
+    "tinhduyen": "Tình duyên viên mãn, đôi lứa hạnh phúc, cùng nhau xây dựng tổ ấm giàu sang."
+  },
+  {
+    "ten": "Quẻ Số 64: Thu Phong Lạc Diệp (Hạ Hung - Lá Rụng Gió Thu)",
+    "tho": "Gió thu thổi nhẹ lá vàng rơi,\nCảnh sắc đượm buồn dạ chơi vơi.\nMưu sự tiêu điều nhiều trắc trở,\nNên thu mình lại đợi cơ thời.",
+    "tongquan": "Vận khí tiêu điều, công việc trì trệ, không có sức sống. Thời điểm này nên giữ vững hiện trạng, không nên mở rộng quy mô.",
+    "tailoc": "Tài chính sụt giảm, thu nhập bấp bênh, cần thắt lưng buộc bụng.",
+    "giadao": "Trong nhà có chuyện buồn lo, tinh thần các thành viên ủ dột.",
+    "tinhduyen": "Tình cảm nguội lạnh, đôi bên thiếu sự quan tâm, dễ dẫn đến rạn nứt."
+  },
+  {
+    "ten": "Quẻ Số 65: Như Hổ Thiêm翼 (Đại Cát - Hổ Thêm Cánh)",
+    "tho": "Chúa sơn lâm lại được thêm cánh飛,\nVẫy vùng bờ cõi chí kiêu hùng.\nMưu sự như ý thành công lớn,\nTầm cao vươn tới khắp muôn vùng.",
+    "tongquan": "Đã mạnh lại càng mạnh hơn. Bạn gặp được quý nhân hoặc cơ hội lớn giúp nâng tầm khả năng, làm gì cũng thành công vang dội.",
+    "tailoc": "Tài lộc dồi dào, doanh thu tăng trưởng vượt bậc, tiền bạc rủng rỉnh.",
+    "giadao": "Gia đình hưng vượng, con cái đỗ đạt cao, có uy tín với xã hội.",
+    "tinhduyen": "Tình yêu viên mãn, đôi bên tương trợ nhau rất nhiều trong cuộc sống."
+  },
+  {
+    "ten": "Quẻ Số 66: Họa Hổ Loại Cẩu (Trung Hung - Vẽ Hổ Ra Chó)",
+    "tho": "Muốn vẽ chúa sơn lâm dũng mãnh,\nTay nghề non kém hóa chó hoang.\nMưu sự viển vông không tự lượng,\nTự chuốc nhục nhã dạ bàng hoàng.",
+    "tongquan": "Cảnh báo việc ảo tưởng sức mạnh, làm việc quá tầm tay dẫn đến thất bại và bị người đời chê cười. Hãy thực tế hơn.",
+    "tailoc": "Thua lỗ do đầu tư vào lĩnh vực mình không am hiểu, tiền mất tật mang.",
+    "giadao": "Gia đình bất hòa do có thành viên chi tiêu hoang phí, nợ nần.",
+    "tinhduyen": "Mối quan hệ rạn nứt do sự đòi hỏi quá cao, thiếu thực tế từ một phía."
+  },
+  {
+    "ten": "Quẻ Số 67: Thanh Phong Minh Nguyệt (Bình Thường - Gió Mát Trăng Thanh)",
+    "tho": "Gió mát trăng thanh cảnh hữu tình,\nCuộc đời bình lặng rạng bình minh.\nKhông màng danh lợi lòng tự tại,\nHạnh phúc ngay đây giữa chính mình.",
+    "quan": "Vận số bình ổn, thích hợp cho việc nghỉ ngơi, chăm sóc bản thân và gia đình. Không nên tranh giành.",
+    "tailoc": "Tài chính vừa đủ tiêu dùng, không dư dả nhiều nhưng không thiếu thốn.",
+    "giadao": "Gia đạo bình an, cuộc sống trôi qua êm đềm, không sóng gió.",
+    "tinhduyen": "Tình cảm nhẹ nhàng, êm đềm, đôi bên tận hưởng những khoảnh khắc bình yên."
+  },
+  {
+    "ten": "Quẻ Số 68: Tứ Hải Giai Huynh Đệ (Thượng Cát - Bốn Biển Là Anh Em)",
+    "tho": "Bốn biển đi đâu cũng gặp bạn,\nAnh em tương trợ dạ thênh thang.\nMối quan hệ rộng đường rộng bước,\nMưu sự thành công lộc vững vàng.",
+    "tongquan": "Vận ngoại giao cực tốt. Bạn đi đến đâu cũng được mọi người yêu mến, giúp đỡ nhiệt tình. Cơ hội mở ra từ bạn bè.",
+    "tailoc": "Có lộc ăn uống, được bạn bè mời mọc hoặc tặng quà giá trị.",
+    "giadao": "Họ hàng hòa thuận, gia đình luôn tràn ngập tiếng cười của khách khứa.",
+    "tinhduyen": "Người độc thân dễ dàng tìm thấy nửa kia thông qua sự giới thiệu của bạn bè."
+  },
+  {
+    "ten": "Quẻ Số 69: Thuyền Mắc Cạn Bãi Cát (Hạ Hung - Trì Trệ)",
+    "tho": "Thuyền đi gặp bãi cát nằm ngang,\nĐứng yên một chỗ dạ bàng hoàng.\nSức lực cạn kiệt dòng nước cạn,\nChờ thủy triều lên lộ mới thông.",
+    "tongquan": "Mọi việc rơi vào trạng thái bế tắc, đóng băng, không thể tiến thêm. Lúc này càng cố giãy giụa càng mệt mỏi, hãy nhẫn nại chờ thời.",
+    "tailoc": "Tiền bạc đóng băng, khó thu hồi nợ, dòng tiền trì trệ.",
+    "giadao": "Gia đình có sự ngột ngạt, thiếu tiếng cười, các thành viên xa cách.",
+    "tinhduyen": "Mối quan hệ rơi vào giai đoạn chán chường, lạnh nhạt, cần làn gió mới."
+  },
+  {
+    "ten": "Quẻ Số 70: Nhật Nguyệt Đồng Minh (Đại Cát - Cùng Sáng)",
+    "tho": "Mặt trời mặt trăng cùng tỏa sáng,\nXua tan tăm tối chốn hồng trần.\nCông danh sự nghiệp đều rực rỡ,\nPhú quý vinh hoa lộc cận thân.",
+    "tongquan": "Quẻ đại cát biểu thị sự sáng suốt, công lý và thành công vượt bậc. Mọi u uất đều được hóa giải, danh tiếng vang xa.",
+    "tailoc": "Tài lộc dồi dào, tiền bạc minh bạch, đầu tư chính thống sinh lời lớn.",
+    "giadao": "Gia đình hòa thuận viên mãn, con cái hiếu thảo, gia phong nghiêm chỉnh.",
+    "tinhduyen": "Tình yêu đôi lứa trong sáng, đẹp đẽ, hướng tới tương lai tốt đẹp."
+  },
+  {
+    "ten": "Quẻ Số 71: Hàm Hồ Độc Dược (Đại Hung - Nuốt Phải Thuốc Độc)",
+    "tho": "Vô tình nuốt phải chén thuốc độc,\nRuột gan đau đớn lệ tuôn dòng.\nTật bệnh tai ương vây tứ phía,\nKhẩn cầu thần phật độ qua giông.",
+    "tongquan": "Quẻ cực xấu về sức khỏe và tiểu nhân. Đề phòng ngộ độc thực phẩm, bệnh tật bất ngờ hoặc bị kẻ xấu hãm hại chí mạng.",
+    "tailoc": "Nguy cơ mất tiền lớn do lừa đảo hoặc chi tiêu cho bệnh tật, viện phí.",
+    "giadao": "Gia đình có người đau ốm nặng, bầu không khí tang thương, lo âu.",
+    "tinhduyen": "Phát hiện sự phản bội cay đắng từ đối phương, lòng đau thắt lại."
+  },
+  {
+    "ten": "Quẻ Số 72: Cự Long Xuất Hải (Đại Cát - Rồng Lớn Ra Biển)",
+    "tho": "Rồng lớn bấy lâu ẩn đáy sâu,\nNay bay ra biển ngẩng cao đầu.\nVẫy vùng sóng nước oai linh hiện,\nCông danh phú quý thỏa mong cầu.",
+    "tongquan": "Vận thế mạnh mẽ, tầm ảnh hưởng của bạn được mở rộng tối đa. Thích hợp để làm những việc lớn, mang tính quyết định.",
+    "tailoc": "Tài lộc hanh thông vô tận, tiền bạc đổ về từ nhiều nguồn khác nhau.",
+    "giadao": "Gia đình hưng vượng, có tiếng vang lớn trong vùng, mọi người nể trọng.",
+    "tinhduyen": "Tình cảm mặn nồng, đối phương hoàn toàn bị thu hút bởi khí chất của bạn."
+  },
+  {
+    "ten": "Quẻ Số 73: Cô Chu Phiếm Hải (Hạ Hung - Thuyền Độc Mộc Giữa Biển)",
+    "tho": "Thuyền nhỏ cô đơn giữa biển khơi,\nSóng xô bão táp dạ chơi vơi.\nKhông người giúp đỡ thân cô quạnh,\nGian nan thử thách bủa vây đời.",
+    "tongquan": "Cho thấy bạn đang phải gánh vác mọi việc một mình, thiếu sự hỗ trợ từ người thân, bạn bè. Áp lực tinh thần cực lớn.",
+    "tailoc": "Tài chính eo hẹp, một mình xoay sở nợ nần, cuộc sống chật vật.",
+    "giadao": "Gia đình lạnh nhạt, các thành viên ích kỷ, chỉ biết nghĩ cho bản thân.",
+    "tinhduyen": "Cảm giác cô đơn ngay trong chính mối quan hệ của mình, thiếu sự thấu hiểu."
+  },
+  {
+    "ten": "Quẻ Số 74: Thập Toàn Thập Mỹ (Đại Cát - Hoàn Hảo Viên Mãn)",
+    "tho": "Mọi sự mười phân vẹn mười phần,\nCuộc đời hạnh phúc hưởng mùa xuân.\nTài lộc công danh đều mỹ mãn,\nVạn sự cát tường phúc cận thân.",
+    "tongquan": "Quẻ viên mãn nhất trong danh sách, mọi khía cạnh cuộc sống đều đạt trạng thái hoàn hảo. Hãy trân trọng và chia sẻ niềm vui.",
+    "tailoc": "Tài chính vững chắc, tiền bạc rủng rỉnh, không có bất kỳ lo âu nào.",
+    "giadao": "Gia đình hạnh phúc ngập tràn, hòa thuận, yêu thương nhau hết mực.",
+    "tinhduyen": "Tình yêu tuyệt vời, đôi lứa thấu hiểu nhau từ lời nói đến ánh mắt."
+  },
+  {
+    "ten": "Quẻ Số 75: Phong Bình Lãng Tĩnh (Bình Thường - Gió Lặng Sóng Êm)",
+    "tho": "Gió lặng mặt hồ sóng chẳng nhấp,\nCuộc đời bình lặng dạ yên lòng.\nKhông cầu vinh hiển không tranh đoạt,\nTự tại an nhiên giữa thinh không.",
+    "tongquan": "Vận số bình ổn, không có biến động, thích hợp cho việc duy trì các công việc hiện tại. Tâm trạng thoải mái, an nhiên.",
+    "tailoc": "Tài chính ổn định, thu chi cân bằng, không có áp lực tiền bạc.",
+    "giadao": "Gia quyến bình an, không xảy ra mâu thuẫn, cuộc sống êm đềm.",
+    "tinhduyen": "Tình cảm bình lặng, trôi qua nhẹ nhàng, đôi bên duy trì sự gắn kết ổn định."
+  },
+  {
+    "ten": "Quẻ Số 76: Kim Bôi Đồng Huyết (Trung Hung - Chén Vàng Chứa Máu)",
+    "tho": "Chén vàng lấp lánh chứa máu tươi,\nGiàu sang phú quý đổi mạng người.\nTranh đoạt lợi danh mờ lý trí,\nTự rước tai ương họa khôn nguôi.",
+    "tongquan": "Cảnh báo việc bất chấp thủ đoạn để đạt được tiền bạc, danh vọng sẽ phải trả giá cực đắt bằng sức khỏe hoặc danh dự. Hãy dừng lại.",
+    "tailoc": "Tiền bạc kiếm được từ nguồn bất chính dễ bị tịch thu hoặc mang lại họa.",
+    "giadao": "Trong nhà có sự nghi kỵ, rạn nứt vì tranh giành tiền bạc lợi ích.",
+    "tinhduyen": "Mối quan hệ thực dụng, đến với nhau vì vật chất, thiếu đi tình cảm chân thành."
+  },
+  {
+    "ten": "Quẻ Số 77: Linh Miêu Tróc Thử (Thượng Cát - Mèo Giỏi Bắt Chuột)",
+    "tho": "Mèo khôn rình rập bắt chuột đồng,\nMưu sự nhạy bén thảy thành công.\nKẻ xấu tiểu nhân đều khiếp sợ,\nĐường đời rộng mở thỏa ước mong.",
+    "tongquan": "Bạn có sự nhạy bén và năng lực xuất sắc trong công việc. Mọi mánh khóe của kẻ xấu đều bị bạn lật tẩy dễ dàng.",
+    "tailoc": "Tài lộc hanh thông, giải quyết tốt các vấn đề tài chính tồn đọng.",
+    "giadao": "Gia đình bình an, bảo vệ tốt tài sản khỏi kẻ trộm cắp.",
+    "tinhduyen": "Sự chủ động và tinh tế giúp bạn ghi điểm tuyệt đối trong mắt đối phương."
+  },
+  {
+    "ten": "Quẻ Số 78: Băng Tuyết Tiêu Tan (Trung Cát - Khởi Sắc)",
+    "tho": "Băng dày ngày ấm bỗng tan nhanh,\nDòng nước trong veo chảy lượn quanh.\nKhó khăn trở ngại đều biến mất,\nTương lai phía trước rạng màu xanh.",
+    "tongquan": "Những mâu thuẫn, bế tắc, hiểu lầm bấy lâu nay bắt đầu được tháo gỡ. Mọi thứ đang ấm dần lên theo hướng tích cực.",
+    "tailoc": "Tài chính bắt đầu có dấu hiệu phục hồi, dòng tiền lưu thông trở lại.",
+    "giadao": "Hóa giải được chiến tranh lạnh lâu ngày giữa các thành viên trong nhà.",
+    "tinhduyen": "Gỡ bỏ được những hoài nghi, hai người lại tin tưởng và yêu thương nhau hơn."
+  },
+  {
+    "ten": "Quẻ Số 79: Ô Dạ Đề Minh (Hạ Hung - Quạ Kêu Đêm Tối)",
+    "tho": "Quạ đen cất tiếng gọi đêm thâu,\nBáo hiệu tai ương chuốc sầu đầu.\nThị phi tai tiếng vây quanh bước,\nGiữ mình tĩnh lặng lánh lo âu.",
+    "quan": "Điềm báo có chuyện thị phi, tranh chấp hoặc tin buồn từ xa đưa tới. Hạn chế tham gia vào chuyện của người khác.",
+    "tailoc": "Dễ bị hao tài tốn của cho những việc không đâu, đề phòng mất ví.",
+    "giadao": "Gia đình có lời qua tiếng vào, không khí căng thẳng, mệt mỏi.",
+    "tinhduyen": "Mối quan hệ gặp trục trặc do có người ngoài nói ra nói vào, dèm pha."
+  },
+  {
+    "ten": "Quẻ Số 80: Khô Mộc Phùng Xuân (Trung Cát - Cây Khô Đơm Hoa)",
+    "tho": "Cây khô gặp tiết lại đơm hoa,\nThời vận suy vi thảy vượt qua.\nNhẫn nhịn chờ thời qua vận hạn,\nMai này phú quý đến tận nhà.",
+    "tongquan": "Vận thế lội ngược dòng. Giai đoạn khó khăn nhất đã kết thúc, cơ hội để bạn tỏa sáng và làm lại cuộc đời đang đến.",
+    "tailoc": "Tiền bạc bắt đầu dồi dào trở lại, kinh doanh nhỏ có lãi lớn.",
+    "giadao": "Gia đình bình an, đón nhận tin vui về sức khỏe của người thân.",
+    "tinhduyen": "Người độc thân tình cờ gặp lại duyên xưa hoặc có đối tượng mới tiếp cận."
+  },
+  {
+    "ten": "Quẻ Số 81: Hải Khô Thạch Kiến (Trung Cát - Lòng Kiên Định)",
+    "tho": "Biển cạn đá mòn chí chẳng lay,\nKiên tâm vững bước suốt bao ngày.\nTrời cao thấu hiểu lòng chung thủy,\nThành quả ngọt ngào nắm trong tay.",
+    "tongquan": "Nhắc nhở về lòng kiên trì. Mọi sự nỗ lực bền bỉ của bạn cuối cùng sẽ được đền đáp xứng đáng, không nên bỏ cuộc giữa chừng.",
+    "tailoc": "Tiền bạc thu về chậm nhưng chắc chắn, đầu tư dài hạn có kết quả tốt.",
+    "giadao": "Gia đình đồng lòng, cùng nhau vượt qua khó khăn về mặt tài chính.",
+    "tinhduyen": "Tình cảm thủy chung son sắt, vượt qua mọi rào cản để đến với nhau."
+  },
+  {
+    "ten": "Quẻ Số 82: Ốc Lậu Phùng Vũ (Đại Hung - Nhà Dột Gặp Mưa Dầm)",
+    "tho": "Nhà dột lại gặp mưa dầm đêm,\nHọa vô đơn chí khổ đè thêm.\nTrắng tay chịu đựng cơn bão tố,\nLòng đau tê tái dạ chẳng êm.",
+    "tongquan": "Vận số cực xấu, khó khăn dồn dập đến cùng một lúc khiến bạn kiệt quệ. Cần giữ vững tinh thần để không bị gục ngã.",
+    "tailoc": "Thất thoát tài chính nghiêm trọng, đề phòng bị quỵt nợ hoặc lừa lọc.",
+    "giadao": "Gia đạo xáo trộn lớn, nội bộ xảy ra mâu thuẫn gay gắt vì tiền bạc.",
+    "tinhduyen": "Mối quan hệ đổ vỡ, chia tay trong đau khổ và nhiều oán hận."
+  },
+  {
+    "ten": "Quẻ Số 83: Thanh Vân Đắc Lộ (Thượng Cát - Lên Bước Mây Xanh)",
+    "tho": "Đường lên mây xanh rộng mở tầm,\nCông danh sự nghiệp thỏa ước tâm.\nTừ đây cất cánh bay cao mãi,\nTài lộc dồi dào tiếng vang thâm.",
+    "tongquan": "Cơ hội thăng quan tiến chức, khẳng định vị thế bản thân đã đến. Được cấp trên tin tưởng và giao trọng trách lớn.",
+    "tailoc": "Tài vận hanh thông, thu nhập tăng vọt nhờ hiệu suất công việc xuất sắc.",
+    "giadao": "Gia đình tự hào, dòng họ nở mày nở mặt vì thành tựu của bạn.",
+    "tinhduyen": "Sức hút cá nhân tăng cao, người độc thân dễ dàng lọt vào mắt xanh của đối tượng tốt."
+  },
+  {
+    "ten": "Quẻ Số 84: Nhất Bản Vạn Lợi (Đại Cát - Một Vốn Bốn Lời)",
+    "tho": "Một vốn bốn lời lộc tự đến,\nKinh doanh đắc lợi thỏa lòng cầu.\nTiền tài dồi dào đầy kho khảm,\nCuộc sống giàu sang chẳng lo sầu.",
+    "tongquan": "Quẻ cực tốt cho việc làm ăn, buôn bán. Đầu tư nhỏ thu lợi nhuận lớn, gặp nhiều may mắn về mặt tiền bạc.",
+    "tailoc": "Tài lộc dồi dào đỉnh điểm, mua may bán đắt, tiền bạc rủng rỉnh.",
+    "giadao": "Gia quyến bình an, cuộc sống sung túc, có của ăn của để dành cho con cháu.",
+    "tinhduyen": "Tình cảm viên mãn, đôi bên đồng lòng xây dựng tương lai vững chắc."
+  },
+  {
+    "ten": "Quẻ Số 85: Sa Mạc Phùng Cam Lộ (Trung Cát - Sa Mạc Gặp Mưa Rào)",
+    "tho": "Sa mạc khô cằn gặp mưa rào,\nVạn vật hồi sinh dạ xôn xao.\nKhó khăn bế tắc đều tan biến,\nCơ hội đổi đời thỏa ước ao.",
+    "tongquan": "Trong lúc bế tắc nhất, bạn tìm được lối thoát hoặc sự trợ giúp kịp thời từ quý nhân. Mọi sự chuyển biến tốt đẹp.",
+    "tailoc": "Giải quyết được khủng hoảng tài chính, có nguồn tiền mới trợ giúp kịp thời.",
+    "giadao": "Mâu thuẫn gia đình được xoa dịu, mọi người thấu hiểu và bao dung cho nhau.",
+    "tinhduyen": "Sự xuất hiện của đối phương mang lại niềm vui và hy vọng mới cho tâm hồn bạn."
+  },
+  {
+    "ten": "Quẻ Số 86: Kim Kê Độc Lập (Bình Thường - Gà Vàng Đứng Một Chân)",
+    "tho": "Gà vàng độc lập đứng một chân,\nMưu sự kiên trì phải tự thân.\nKhông người giúp đỡ không nương tựa,\nTự lực cánh sinh nhẹ bước chân.",
+    "tongquan": "Vận số đòi hỏi bạn phải tự thân vận động, không thể trông chờ vào sự giúp đỡ của người khác. Tự lực sẽ thành công.",
+    "tailoc": "Tài chính ở mức trung bình, tiền bạc làm ra do chính mồ hôi nước mắt của mình.",
+    "giadao": "Bình thường, các thành viên bận rộn với công việc riêng, ít thời gian bên nhau.",
+    "tinhduyen": "Tình cảm tiến triển chậm, người độc thân hài lòng với cuộc sống tự do hiện tại."
+  },
+  {
+    "ten": "Quẻ Số 87: Bá Hổ Hạ Sơn (Thượng Cát - Mãnh Hổ Xuống Núi)",
+    "tho": "Mãnh hổ xuống núi uy phong rạng,\nMưu sự quyết đoán thảy thành công.\nKẻ xấu tiểu nhân đều khiếp sợ,\nDanh tiếng vang xa thỏa ước mong.",
+    "quan": "Vận thế mạnh mẽ, thích hợp để hành động quyết đoán, giành lấy vị trí xứng đáng. Uy tín của bạn tăng cao.",
+    "tailoc": "Tài lộc dồi dào, thu được lợi nhuận lớn từ sự táo bạo trong kinh doanh.",
+    "giadao": "Gia đình hưng vượng, bạn là chỗ dựa vững chắc cho các thành viên.",
+    "tinhduyen": "Sự tự tin và mạnh mẽ giúp bạn hoàn toàn làm chủ mối quan hệ, tình cảm thăng hoa."
+  },
+  {
+    "ten": "Quẻ Số 88: Song Hỷ Lâm Môn (Đại Cát - Hai Tin Vui Cùng Đến)",
+    "tho": "Hai tin vui lớn cùng đến cửa,\nGia đình ngập tràn tiếng cười vui.\nTài lộc tình duyên đều viên mãn,\nCuộc đời rực rỡ chẳng thoái lui.",
+    "tongquan": "Quẻ đại cát đại lợi, dự báo có hai tin vui lớn cùng ập đến trong ngày (ví dụ: vừa thăng chức vừa có hỷ sự).",
+    "tailoc": "Tài vận bùng nổ, tiền bạc dồi dào, có lộc may mắn bất ngờ.",
+    "giadao": "Gia đạo viên mãn, ngập tràn không khí lễ hội, chúc mừng thành tựu.",
+    "tinhduyen": "Tình yêu chín muồi, đôi lứa tính chuyện trăm năm trong niềm hạnh phúc ngập tràn."
+  },
+  {
+    "ten": "Quẻ Số 89: Manh Nhân Hướng Lộ (Đại Hung - Lạc Lối Trong Đêm)",
+    "tho": "Người mù đi lối tối tăm sương,\nKhông gậy khua chân lạc dặm trường.\nTrắc trở bủa vây đầy lối bước,\nQuay đầu nhìn lại luống sầu thương.",
+    "tongquan": "Cực kỳ xấu. Bạn đang thiếu thông tin hoặc đưa ra quyết định sai lầm nghiêm trọng. Hãy dừng lại ngay lập tức.",
+    "tailoc": "Nguy cơ mất trắng tiền bạc do đầu tư sai chỗ hoặc bị lừa gạt tinh vi.",
+    "giadao": "Gia đạo bất an, đề phòng có người thân gặp tai nạn hoặc đau ốm bất ngờ.",
+    "tinhduyen": "Mối quan hệ bế tắc, cãi vã triền miên do thiếu sự tin tưởng và thấu hiểu."
+  },
+  {
+    "ten": "Quẻ Số 90: Phong Thanh Hạc Lệ (Trung Hung - Thần Hồn Nát Thần Tính)",
+    "tho": "Tiếng gió tiếng hạc ngỡ quân địch,\nLo sợ hoang mang dạ bồn chồn.\nTự mình hù dọa mình lo hãi,\nTâm trí bất an luống tổn hồn.",
+    "tongquan": "Vận thế bất ổn về mặt tâm lý. Bạn đang quá lo lắng, nghi ngờ vô cớ dẫn đến quyết định sai lầm. Hãy giữ cái đầu lạnh.",
+    "tailoc": "Tài chính không có vấn đề lớn nhưng do lo sợ hão huyền mà không dám đầu tư.",
+    "giadao": "Trong nhà có sự nghi kỵ lẫn nhau do thiếu sự giao tiếp, thẳng thắn.",
+    "tinhduyen": "Ghen tuông mù quáng gây áp lực lớn cho đối phương, mối quan hệ ngột ngạt."
+  },
+  {
+    "ten": "Quẻ Số 91: Tinh Nguyệt Giao Huy (Thượng Cát - Sao Trăng Cùng Sáng)",
+    "tho": "Sao trăng cùng sáng giữa trời cao,\nTỏa ánh hào quang đẹp biết bao.\nBạn bè đồng chí cùng chung sức,\nMưu sự thành công thỏa ước ao.",
+    "tongquan": "Biểu thị sự đồng lòng, hợp tác mang lại thành công lớn. Bạn gặp được cộng sự tốt, bạn bè hết lòng giúp đỡ.",
+    "tailoc": "Kinh doanh chung có lãi lớn, tài chính đi lên vững chắc.",
+    "giadao": "Gia đình gắn kết, họ hàng tương trợ lẫn nhau khi gặp khó khăn.",
+    "tinhduyen": "Mối tình đẹp đẽ, đôi bên luôn là chỗ dựa tinh thần vững chắc cho nhau."
+  },
+  {
+    "ten": "Quẻ Số 92: Lâm Thâm Lộ Mê (Hạ Hung - Rừng Sâu Lạc Lối)",
+    "tho": "Rừng sâu lối rậm sương mờ lối,\nĐi mãi đi hoài dạ bối rối.\nChớ bước liều lĩnh sa hố sâu,\nDừng chân chờ sáng qua đêm tối.",
+    "tongquan": "Bạn đang bị quá tải hoặc mất phương hướng trong công việc. Đừng vội vã thay đổi hay đưa ra quyết định lớn lúc này.",
+    "tailoc": "Tài chính bế tắc, thu không đủ chi, tránh xa các trò vay mượn lãi cao.",
+    "giadao": "Bầu không khí trong nhà ngột ngạt, các thành viên xa cách, ít chia sẻ.",
+    "tinhduyen": "Mối quan hệ mập mờ, không rõ ràng tương lai khiến bạn mệt mỏi, kiệt sức."
+  },
+  {
+    "ten": "Quẻ Số 93: Cẩm Thượng Thiêm Hoa (Đại Cát - Thêu Hoa Trên Gấm)",
+    "tho": "Lụa gấm thêu hoa đẹp tuyệt vời,\nNiềm vui nhân gấp bội phần tươi.\nTài lộc công danh đều viên mãn,\nMở miệng mở lòng thỏa tiếng cười.",
+    "tongquan": "May mắn nối tiếp may mắn, niềm vui nhân đôi. Công việc đạt thành tích xuất sắc, được thưởng lớn.",
+    "tailoc": "Tiền đẻ ra tiền, đầu tư trúng đậm, tài chính dư dả phong phú.",
+    "giadao": "Gia đình viên mãn, liên tục đón nhận tin vui từ các thành viên.",
+    "tinhduyen": "Tình yêu thăng hoa rực rỡ, đôi lứa tính chuyện trăm năm hạnh phúc."
+  },
+  {
+    "ten": "Quẻ Số 94: Bộ Bộ Cao Thăng (Thượng Cát - Từng Bước Lên Cao)",
+    "tho": "Từng bước leo lên đỉnh núi cao,\nĐường đi tuy mệt dạ xôn xao.\nNhìn lại chặng đường đầy sỏi đá,\nGiờ đây đứng ngắm ánh vì sao.",
+    "tongquan": "Biểu thị sự thăng tiến bền vững, chắc chắn. Đi tới đâu vững tới đó, học tập và công việc ngày càng đi lên.",
+    "tailoc": "Thu nhập tăng dần đều theo năng lực, có lộc quà cáp hoặc tiền thưởng nhỏ.",
+    "giadao": "Êm ấm, các thành viên thấu hiểu và cùng nhau vun đắp tổ ấm.",
+    "tinhduyen": "Tình cảm chín muồi, mối quan hệ được gia đình hai bên ủng hộ nhiệt tình."
+  },
+  {
+    "ten": "Quẻ Số 95: Thuyền Trầm Đáy Nước (Đại Hung - Chìm Thuyền)",
+    "tho": "Sóng lớn cuồng phong dập mạn thuyền,\nGiữa dòng chết đứng họa triền miên.\nCông danh sự nghiệp trôi theo nước,\nĐể lại lòng đau nỗi muộn phiền.",
+    "tongquan": "Cực kỳ xấu. Kế hoạch xây dựng bấy lâu có nguy cơ đổ vỡ hoàn toàn do yếu tố khách quan bão tố. Cần cẩn trọng tối đa.",
+    "tailoc": "Thất bát nặng nề, tránh xa các dự án góp vốn đầu tư mạo hiểm.",
+    "giadao": "Đề phòng trong nhà có chuyện buồn lo lớn hoặc tranh chấp tài sản gay gắt.",
+    "tinhduyen": "Mối quan hệ đi đến hồi kết, đổ vỡ không thể cứu vãn vì tổn thương quá sâu."
+  },
+  {
+    "ten": "Quẻ Số 96: Vân Khai Kiến Nhật (Thượng Cát - Mây Tan Thấy Mặt Trời)",
+    "tho": "Mây mờ tan biến hiện trời xanh,\nMặt trời rực rỡ tỏa quang hanh.\nBao ngày u ám nay kết thúc,\nVạn sự từ đây thảy tốt lành.",
+    "tongquan": "Thời kỳ đen đủi xui xẻo chính thức khép lại. Công lý, sự minh bạch và vận may sẽ quay trở lại với bạn từ ngày hôm nay.",
+    "tailoc": "Tài vận lội ngược dòng, đòi lại được tiền bị nợ hoặc có nguồn thu mới.",
+    "giadao": "Hòa thuận, tai qua nạn khỏi, người đau ốm trong nhà sớm bình phục.",
+    "tinhduyen": "Hiểu lầm được xóa bỏ hoàn toàn, hai người lại mặn nồng như thuở ban đầu."
+  },
+  {
+    "ten": "Quẻ Số 97: Hoang Đường Chi Ngôn (Trung Hung - Lời Nói Hoang Đường)",
+    "tho": "Lời nói hoang đường chớ vội tin,\nKẻ xấu dụ dỗ dạ trung trinh.\nGiữ mình tỉnh táo đường lối bước,\nTự rước vào thân nỗi nhục hình.",
+    "tongquan": "Cảnh báo việc tin lời dụ dỗ ngọt ngào của người ngoài dẫn đến sai lầm. Cần xác minh thông tin kỹ càng trước khi hành động.",
+    "tailoc": "Dễ bị lừa tiền qua các dự án đa cấp, lừa đảo công nghệ cao. Cẩn trọng túi tiền.",
+    "giadao": "Trong nhà có sự cãi vã do nghe lời gièm pha từ người ngoài.",
+    "tinhduyen": "Thiếu sự tin tưởng, dễ ghen tuông vô cớ vì những lời đồn thổi thất thiệt."
+  },
+  {
+    "ten": "Quẻ Số 98: Ngư Nhiễm Thượng Uyển (Thượng Cát - Cá Về Hồ Thượng Uyển)",
+    "tho": "Cá nhỏ bơi vào hồ uyển cung,\nTự do tự tại thỏa thong dong.\nKhông lo mồi bẫy không lo nạn,\nCuộc sống yên vui dạ ấm lòng.",
+    "tongquan": "Bạn tìm được một môi trường làm việc hoặc học tập vô cùng an toàn, đãi ngộ tốt và không có sự đấu đá, tranh giành khốc liệt.",
+    "tailoc": "Tài chính ổn định, thu nhập đều đặn, cuộc sống an nhàn dư dả.",
+    "giadao": "Gia quyến bình an, không có bất kỳ sóng gió hay lo âu nào.",
+    "tinhduyen": "Tình cảm nhẹ nhàng, đôi bên trân trọng và mang lại cảm giác bình yên cho nhau."
+  },
+  {
+    "ten": "Quẻ Số 99: Phong Tồi Tàn Liễu (Đại Hung - Gió Dập Liễu Tàn)",
+    "tho": "Gió dữ dập vùi rặng liễu tơ,\nCành rơi lá rụng dạ bơ vơ.\nTai ương vận hạn vây tứ phía,\nĂn ở hiền lành đợi thiên cơ.",
+    "tongquan": "Quẻ xấu nhất hệ thống, vận hạn nặng nề vây quanh. Tuyệt đối không làm việc lớn, hạn chế đi lại đường xa vào ban đêm.",
+    "tailoc": "Nguy cơ hao tài lớn, tuyệt đối không cho vay tiền và không chơi trò may rủi.",
+    "giadao": "Gia đình có chuyện buồn phiền nghiêm trọng, cần cực kỳ nhẫn nhịn để giữ hòa khí.",
+    "tinhduyen": "Dễ xảy ra rạn nứt lớn dẫn đến chia ly hoàn toàn, không nên giận quá mất khôn."
+  },
+  {
+    "ten": "Quẻ Số 100: Viên Mãn Chung Kết (Đại Cát - Kết Thúc Viên Mãn)",
+    "tho": "Trăm quẻ gieo ra quẻ cuối cùng,\nViên mãn vẹn toàn chí kiêu hùng.\nĐường đời trọn vẹn niềm hạnh phúc,\nPhú quý vinh hoa hưởng vô cùng.",
+    "tongquan": "Quẻ chốt hạ, mang ý nghĩa trọn vẹn, viên mãn sau một hành trình dài cố gắng. Mọi nỗ lực của đời bạn đều được đền đáp xứng đáng.",
+    "tailoc": "Tài sản tích lũy vững chắc, cuộc sống sung túc giàu sang lâu bền.",
+    "giadao": "Gia đình đại hạnh phúc, con cháu đông đúc hiếu thảo, dòng họ hưng thịnh.",
+    "tinhduyen": "Mối quan hệ đi đến cái kết viên mãn nhất bằng một cuộc hôn nhân hạnh phúc trọn đời."
+  }
+]
